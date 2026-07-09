@@ -1,0 +1,36 @@
+items:
+  DIAMOND:
+    name: "&bАлмаз"
+    price: 150.0
+  GOLD_INGOT:
+    name: "&eЗолотой слиток"
+    price: 75.0
+  IRON_INGOT:
+    name: "&7Железный слиток"
+    price: 30.0
+  EMERALD:
+    name: "&aИзумруд"
+    price: 120.0
+  NETHERITE_INGOT:
+    name: "&cНезеритовый слиток"
+    price: 600.0
+  COAL:
+    name: "&8Уголь"
+    price: 10.0
+  LAPIS_LAZULI:
+    name: "&9Лазурит"
+    price: 25.0
+  REDSTONE:
+    name: "&cРедстоуновая пыль"
+    price: 15.0
+  COPPER_INGOT:
+    name: "&6Медный слиток"
+    price: 20.0
+  STONE:
+    name: "&8Камень"
+    price: 0.05
+seller-menu:
+  border-material: WHITE_STAINED_GLASS_PANE
+  submit-material: PAPER
+list-menu:
+  border-material: GRAY_STAINED_GLASS_PANE
